@@ -9,3 +9,4 @@ Requests==2.32.3
 scikit_surprise==1.1.4
 SQLAlchemy==2.0.25
 gunicorn==19.7.1
+uvicorn==0.22.0
